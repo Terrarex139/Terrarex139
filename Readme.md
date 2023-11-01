@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Terrarex139
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Python projects
+- 💞️ I’m looking to collaborate with Back-end developer
+- 📫 You can reach me at pruthviraj.mb6@gmail.com or 6363834159
